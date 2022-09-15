@@ -4,7 +4,7 @@ Codimatic is an Automated tool for [Discord](https://discord.com/) [Developers](
 
 ## `Contributing`
 
-Codimatic is not currently open source and has a small [team]() working on the project right now. If you would like to contribute to the project, please contact us on our [Discord Server]() for more information.
+Codimatic is not currently open source and has a small [team](https://github.com/orgs/codimatic-org/people) working on the project right now. If you would like to contribute to the project, please contact us on our [Discord Server]() for more information.
 
 ## `Our Mission`
 
