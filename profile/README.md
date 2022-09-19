@@ -1,6 +1,16 @@
 # `Codimatic`
 
-Codimatic is an Automated tool for [Discord](https://discord.com/) [Developers](https://discord.com/developers/docs/intro) to generate pre-built code for bots. This Origination host the code for the website and the API.
+Codimatic is an Automated tool for [Discord](https://discord.com/) [Developers](https://discord.com/developers/docs/intro) to generate pre-built code for bots. This Origination host the code for the Website, API, and Bot Templates.
+
+### Supported Languages
+
+- [x] JavaScript
+- [x] TypeScript
+- [x] Python
+- [ ] Java
+- [ ] CSharp
+- [ ] Go
+- [ ] Rust
 
 ## `Contributing`
 
